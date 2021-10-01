@@ -56,3 +56,9 @@ p{
 .footer-text-color{
     color:var(--CSE--color);
 }
+.navbar-toggler{
+    margin-left: auto;
+}
+.footer-text{
+    text-align: center;
+}
